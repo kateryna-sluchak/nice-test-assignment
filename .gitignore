@@ -1,0 +1,11 @@
+node_modules
+cypress/reports/mocha/*.json
+cypress/videos/*.mp4
+cypress/fixtures/setup_data
+
+# IDE - VSCode
+.vscode/*
+.history/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
